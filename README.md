@@ -1,6 +1,6 @@
-# g2i_api_challenge
+# trips_api
 
-A module to consume the g2i departures API response data, filter the results, and export the final results to a csv file.
+A module to consume the departures API response data, filter the results, and export the final results to a csv file.
 
 There are two functions in the module:
 
